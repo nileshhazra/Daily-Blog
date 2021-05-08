@@ -11,5 +11,13 @@ npm start
 
 ### Home Page
 <img src="home.png" />
+
+### Compose Page
 <img src="compose.PNG" />
+
+## Updated Home Page
 <img src="homefinal.PNG" />
+
+## Post Page
+<img src="post.PNG" />
+
